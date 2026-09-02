@@ -29,5 +29,5 @@ Visitor access is currently **team login only** (free plan; real password protec
 - MSK credit line (portfolio says CannonDesign AOR; cannondesign.com says with Foster + Partners)
 - Building K / Polk / MSK — CannonDesign clearance for unpublished work
 - Student project years (Dominos, Circularity, In + Out)
-- About: title + start date, degree title + year, undergrad, NCIDQ/WELL/LEED, software, bio, résumé link, location
+- About: résumé link, footer location
 - Phone number deliberately left off the site (it's in the PDF) — add to About if wanted

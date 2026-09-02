@@ -127,7 +127,7 @@ def head(title, depth=0):
   <nav class="nav">
     <a href="{b}index.html">Projects</a>
     <a href="{b}documentation.html">Documentation</a>
-    <a href="{b}about.html">About/Contact</a>
+    <a href="{b}about.html">About</a>
   </nav>
   <div class="soc">
     <a href="{LINKEDIN}" target="_blank" rel="noopener" aria-label="LinkedIn">in</a>
@@ -201,22 +201,12 @@ write("documentation.html", head("Documentation — Pravallika Thirumalasetty") 
 
 # About / Contact
 about = f"""<article class="proj about">
-  <div class="ph-title"><h1>About/Contact</h1></div>
+  <div class="ph-title"><h1>About</h1></div>
   <div class="info">
     <div class="txt">
       <img class="sig" src="{IMG}/about/01.jpg" alt="Pravallika Thirumalasetty">
-      <div class="glance">
-        <div><b>5</b><span>CannonDesign projects</span></div>
-        <div><b>2</b><span>built and open</span></div>
-        <div><b>1.3M+</b><span>SF healthcare &amp; higher ed</span></div>
-        <div><b>$46M–$2B+</b><span>[project budgets — confirm]</span></div>
-      </div>
-      <p class="draft">Draft — confirm: Interior designer at CannonDesign New York, working on healthcare and higher-education projects from experience strategy and finish palettes through millwork and partition details. MFA Interior Design, Pratt Institute; thesis featured by the Pratt Institute Sustainability Center.</p>
-      <p>Interior Designer, CannonDesign — New York. [Confirm title and start date]</p>
-      <p>MFA Interior Design, Pratt Institute. [Confirm degree title and graduation year]</p>
-      <p>[Undergraduate degree, institution, year]</p>
-      <p>[NCIDQ / WELL / LEED status]</p>
-      <p>[Software: Revit, Enscape, SketchUp, Adobe Suite — confirm list]</p>
+      <p>Pravallika is an interior designer at CannonDesign, New York. She has worked on 33 projects in different capacities, and as a passionate designer brings her design principles to everything she does.</p>
+      <p>When she’s not working, she’s with her cat Moonpie or making playlists for friends.</p>
     </div>
     <dl class="meta">
       <div><dt>Email</dt><dd><a href="mailto:{EMAIL}">{EMAIL}</a></dd></div>
@@ -227,7 +217,7 @@ about = f"""<article class="proj about">
   </div>
 </article>
 """
-write("about.html", head("About/Contact — Pravallika Thirumalasetty") + about + FOOT)
+write("about.html", head("About — Pravallika Thirumalasetty") + about + FOOT)
 
 # ---------------------------------------------------------------- css
 css = """
