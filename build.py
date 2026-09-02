@@ -25,7 +25,8 @@ P = [
             ("Completed","September 25th 2025"),("Award","AIA NJ – Honor Award 2025")],
       text=["Expansion and Renovation of Seton Hall University’s Basketball Training Facility for Men and Women.",
             "A three-story addition to Seton Hall’s existing athletic facility, with a basketball court, strength and conditioning area, film room, coaches’ offices, players lounge, dining space, steam and sauna. The building references basketball athleticism through a cantilevered section “inspired by the way basketball players seemingly float above the rim.” — cannondesign.com"],
-      role="[Role · Phases (SD / DD / CD / CA) · What I produced]",
+      stats=[("97,381","SF"),("$46.3M","construction cost"),("3","story addition"),("2025","AIA NJ Honor Award")],
+      role="Draft — confirm: Interior designer on the project team, [DD] through CD and CA. Produced interior elevations, millwork sections and partition details for the entrance lobby, players lounge and locker rooms; drafted the trophy display casework elevation; assisted with the interior finish palette and CA submittal review.",
       credit="Shared work through team effort. [Photography credit]",
       doc=[13,14,15]),
  dict(slug="msk-pavilion", num="02", title="MSK Pavilion",
@@ -34,7 +35,8 @@ P = [
             ("Location","Manhattan, New York"),("Size","823,000 SF"),("Est. Completion","2028–2029")],
       text=["Recovery, Surgery & IR, ICU and Med/Surg experience plans.",
             "The Kenneth C. Griffin Pavilion: a 27-story inpatient pavilion adding 208 beds, designed with Foster + Partners. CannonDesign’s scope includes architecture, experience strategy and design, interior design, sustainability and functional/space programming. Four design guideposts: Sense of Belonging · Progress is Sacred · Environment Contributes to Healing · Future-Facing and Flexible. — cannondesign.com"],
-      role="[Role · Phases · What I produced]",
+      stats=[("823,000","SF"),("27","stories"),("208","new inpatient beds"),("2028–29","est. completion")],
+      role="Draft — confirm: Interior designer supporting the experience strategy and interiors team, [phase]. Developed experience-attribute mapping by department and patient, visitor and staff journey diagrams across the Med/Surg, ICU, Surgery & IR and Recovery floors; produced interior renderings for guest waiting, podium and conference spaces.",
       credit="[Confirm credit line: portfolio lists CannonDesign as AOR; cannondesign.com lists the project as a collaboration with Foster + Partners]",
       doc=[9,10,11,12]),
  dict(slug="polk-learning-commons", num="03", title="Polk Learning Commons",
@@ -43,20 +45,23 @@ P = [
             ("Location","Oshkosh, Wisconsin"),("Size","154,190 SF"),("Est. Completion","2028–2029")],
       text=["Section – The Avenue · Study Pod – Acoustic Panelling, Demountable Front, Glazing · Cafe Millwork Detail · Cafe Island – Plan, Exterior · Elevation – Cafe Island + Tile Wall.",
             "A “build back smaller” transformation of the 1960s-era Polk Library: a Campus Porch to the north and an Academic Avenue of “light‑filled, double‑height spaces that make learning visible and accessible.” Services: Architecture, Interior Design, Lighting Design, Sustainability. — cannondesign.com"],
-      role="[Role · Phases · What I produced]",
+      stats=[("154,190","SF"),("1969","wing renovated, 1962 wing rebuilt"),("[$137.5M]","[uwosh.edu — confirm]"),("2028–29","est. completion")],
+      role="Draft — confirm: Interior designer, [DD / CD]. Produced the enlarged furniture plan, study pod details (acoustic panelling, demountable front, glazing), and the café island plan, elevations and millwork details; developed room-type studies and the furniture and finish palette.",
       credit="Shared work through team effort.",
       doc=[8,9,11,12,13]),
  dict(slug="dominos", num="04", title="Dominos",
       caption="Dominos - Pratt Institute, Brooklyn, NY",
       meta=[("Type","Student Work"),("School","Pratt Institute"),("Location","Brooklyn, New York"),("Year","[Year]")],
       text=["Dominos is a cat condo proposed to be made on Pratt Institute’s lawn for Pratt cats that live on the campus. This is a sculptural piece that can be inhabited by both cats and people. The structures are angled to replicate dominos pieces in motion. There are benches made on either sides of these structures for people to occupy while the cats get to engage with the voids made through the tilting structures."],
+      stats=[("12'-0\"","height"),("Pratt lawn","site"),("cats + people","occupants")],
       role=None, credit=None, doc=[2,3]),
  dict(slug="building-k", num="05", title="Building K",
       caption="Building K - Nassau Community College, NY",
       meta=[("Client","Nassau Community College"),("Program","Culinary Arts Department"),("Firm","CannonDesign"),("Sector","Higher Education"),
             ("Location","Nassau, New York"),("Est. Completion","2028–2029")],
       text=["Entrance Lobby · Classroom · Finish palette: exposed bricks, wood LVT, porcelain floor tile, rubber flooring, solid surface, built-in wood bench, gradient glass, quartz, carpet tile, blackened steel base, ceramic wall tiles, acoustic baffle ceiling, plastic laminate, resinous poured floor, wallcovering."],
-      role="[Role · Phases · What I produced]",
+      stats=[("[SF]","area"),("Culinary Arts","department"),("2028–29","est. completion")],
+      role="Draft — confirm: Interior designer, [SD / DD]. Developed the finish palette and furniture selection for the Culinary Arts Department; produced entrance lobby and classroom renderings, the furniture & power plan and interior details.",
       credit="[Unpublished project — confirm CannonDesign clearance before going live]",
       doc=[6,7,8,9]),
  dict(slug="circularity", num="06", title="Circularity",
@@ -65,6 +70,7 @@ P = [
             ("Location","Brooklyn, New York"),("Size","132,000 SF"),("Recognition","Featured in Pratt Institute Sustainability Center"),("Year","[Year]")],
       text=["“Circularity” activates a cyclic economy to deploy water and waste production systems to re-imagine the role of housing, as a tool, to foster opportunity. Creating an intrinsic network of resource production, sharing, accumulation, and waste, the Domino Sugar Refinery in Williamsburg transforms into a community generator by re-imagining the food production cycle.",
             "Tackling housing inequity through resources + opportunities. Introduction of a circular economy can provide an opportunity to provide sustainable practices with minimal to no waste produced while simultaneously providing employment and sharing of resources."],
+      stats=[("132,000","SF"),("6","floors + roof farming"),("3","user groups, 24×7"),("Pratt","Sustainability Center feature")],
       role=None, credit=None, doc=[7,13,14,15,16]),
  dict(slug="the-one", num="07", title="The One",
       caption="NewYork-Presbyterian The One - Westchester, NY",
@@ -72,7 +78,8 @@ P = [
             ("Size","~285,000 SF"),("Completed","1st September 2025")],
       text=["Lobby Entrance · Lobby Check In · Lobby Reception Desk.",
             "A center for advanced care at 1111 Westchester Avenue, White Plains: 155 exam and consult rooms, ambulatory surgery and endoscopy suites, advanced radiology and an infusion center, spanning more than 90 specialties. — nyp.org"],
-      role="[Role · Phases · What I produced]",
+      stats=[("~285,000","SF"),("155","exam & consult rooms"),("90+","specialties"),("2025","opened")],
+      role="Draft — confirm: Interior designer, [phase]. Produced the lobby reception desk and check-in elevations, and the lobby entrance and check-in renderings.",
       credit="[Photography credit]",
       doc=[4,5]),
  dict(slug="in-out", num="08", title="In + Out",
@@ -80,6 +87,7 @@ P = [
       meta=[("Type","Student Work"),("School","Pratt Institute"),("Client","the Agency"),("Location","Park Avenue, New York"),("Floors","21 · 22"),("Year","[Year]")],
       text=["In + Out is a workspace for “the Agency” exploring the concept of exterior vs interior and influenced by their clients for the material palette. The exploration of biophilia along with luxurious materials come into play in this space as it tries to connect the outside to the inside for the “new normal” of COVID‑19.",
             "the Agency is a collaborative creative design consultancy firm that mostly focuses on indian fashion and lifestyle branding. Their clients include Masaba, Anushree Reddy, Manish Malhotra, Shivan & Narresh, and Sabyasachi."],
+      stats=[("2","floors, 21 & 22"),("Park Avenue","site"),("5","fashion houses as clients")],
       role=None, credit=None, doc=[4,7]),
 ]
 
@@ -161,12 +169,17 @@ for i, p in enumerate(P):
     nxt = P[(i + 1) % len(P)]
     meta = "".join(f"<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>" for k, v in p["meta"])
     text = "".join(f"<p>{esc(t)}</p>" for t in p["text"])
-    role = f'<p class="gap">{esc(p["role"])}</p>' if p["role"] else ""
+    role = ""
+    if p["role"]:
+        cls = "draft" if p["role"].startswith("Draft") else "gap"
+        role = f'<p class="{cls}">{esc(p["role"])}</p>'
     credit = f'<p class="credit">{esc(p["credit"])}</p>' if p["credit"] else ""
+    stats = "".join(f'<div><b>{esc(n)}</b><span>{esc(l)}</span></div>' for n, l in p.get("stats", []))
     tiles = "".join(f'<a class="z {span(w,h)}" href="../{src}"><img src="../{src}" alt="{esc(p["title"])} — {n+1:02d}" loading="{"eager" if n==0 else "lazy"}"></a>'
                     for n, (src, w, h) in enumerate(imgs))
     body = f"""<article class="proj">
   <div class="ph-title"><span class="num">{p["num"]}</span><h1>{esc(p["title"])}</h1></div>
+  <div class="stats">{stats}</div>
   <div class="info">
     <dl class="meta">{meta}</dl>
     <div class="txt">{text}{role}{credit}</div>
@@ -192,12 +205,18 @@ about = f"""<article class="proj about">
   <div class="info">
     <div class="txt">
       <img class="sig" src="{IMG}/about/01.jpg" alt="Pravallika Thirumalasetty">
+      <div class="glance">
+        <div><b>5</b><span>CannonDesign projects</span></div>
+        <div><b>2</b><span>built and open</span></div>
+        <div><b>1.3M+</b><span>SF healthcare &amp; higher ed</span></div>
+        <div><b>$46M–$2B+</b><span>[project budgets — confirm]</span></div>
+      </div>
+      <p class="draft">Draft — confirm: Interior designer at CannonDesign New York, working on healthcare and higher-education projects from experience strategy and finish palettes through millwork and partition details. MFA Interior Design, Pratt Institute; thesis featured by the Pratt Institute Sustainability Center.</p>
       <p>Interior Designer, CannonDesign — New York. [Confirm title and start date]</p>
       <p>MFA Interior Design, Pratt Institute. [Confirm degree title and graduation year]</p>
       <p>[Undergraduate degree, institution, year]</p>
       <p>[NCIDQ / WELL / LEED status]</p>
       <p>[Software: Revit, Enscape, SketchUp, Adobe Suite — confirm list]</p>
-      <p>[Short bio — 2 to 3 sentences]</p>
     </div>
     <dl class="meta">
       <div><dt>Email</dt><dd><a href="mailto:{EMAIL}">{EMAIL}</a></dd></div>
@@ -240,6 +259,13 @@ img{display:block;max-width:100%}
 .meta dt{margin:0;color:var(--txt)}.meta dd{margin:0;color:var(--ink)}
 .txt p{margin:0 0 12px;max-width:62ch}
 .gap,.credit,[class=gap]{color:#b04a4a}
+.draft{color:#8a6d1f;border-left:2px solid #e3c874;padding-left:12px}
+.stats{display:flex;flex-wrap:wrap;gap:0 44px;margin:-8px 0 34px;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.stats div{display:flex;flex-direction:column;padding:4px 0}
+.stats b{font-size:26px;font-weight:700;color:var(--ink);letter-spacing:-.02em;line-height:1.1}
+.stats span{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--txt);margin-top:3px}
+.glance{display:flex;flex-wrap:wrap;gap:0 44px;margin:0 0 28px}
+.glance div{display:flex;flex-direction:column}.glance b{font-size:26px;font-weight:700;color:var(--ink);line-height:1.1}.glance span{font-size:11px;letter-spacing:.06em;text-transform:uppercase;margin-top:3px}
 .credit{font-size:12px;font-style:italic;color:#9a97ad}
 .lede{margin:-10px 0 30px;max-width:62ch}
 .g{display:grid;grid-template-columns:repeat(6,1fr);grid-auto-flow:dense;gap:var(--gap)}
