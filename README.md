@@ -16,6 +16,12 @@ python3 build.py
 python3 -m http.server 8765
 ```
 
+## Deploy (GitHub Pages)
+
+Repo: https://github.com/Maanasa02/pravallika-portfolio · live: https://maanasa02.github.io/pravallika-portfolio/
+
+Pushing to `main` runs `.github/workflows/pages.yml`, which publishes the repo root. Public — no login.
+
 ## Deploy (Netlify)
 
 Site: `pravallika-thirumalasetty` · id `482829cf-953f-415e-b14a-4ca519a4bff6` · https://pravallika-thirumalasetty.netlify.app
